@@ -41,4 +41,7 @@ Code was Modified to the following criteria:
 
 * Repository contains multiple descriptive commit messages.
 
-* Repository contains quality README file with description, screenshot, and link to deployed application.
+* Repository contains quality README file with description and link to deployed application.
+
+link: https://artemk2002.github.io/AK_Moduel1Challenge/
+
